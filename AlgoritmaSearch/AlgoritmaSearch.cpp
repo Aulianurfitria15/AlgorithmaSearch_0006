@@ -33,3 +33,6 @@ void LinearSearch()
 	int ctr;
 	int item;
 
+	do
+	{
+
